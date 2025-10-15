@@ -1,4 +1,12 @@
-## Hi there 👋
+# Olá! Sou Filipe Cruz👋
+
+Sou um profissional **persistente, comprometido** e **rigoroso** focado na **Análise de Ameaças** e **Resposta a Incidentes**, guiado pelos valores de **Confiança, Integridade e Disponibilidade (CIA)**. Através da **Aprendizagem Contínua** e de uma forte **Ética**, dedico-me a ajudar as organizações a **reduzir riscos de forma proativa** e a **garantir a recuperação rápida** após quaisquer incidentes de segurança.
+
+---
+### O que faço:
+- 🛡️ Análise de Ameaças
+- 🚨 Resposta a Incidentes
+- 🧠 Segurança da Informação (CIA)
 
 <!--
 **filipecruzsec/filipecruzsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
