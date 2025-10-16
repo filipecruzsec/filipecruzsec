@@ -4,7 +4,7 @@ Considero-me um profissional **persistente, comprometido** e **rigoroso**, focad
 
 ---
 ### O que faço:
-- 🌱 Atualmente em formação (CS)
+- 🌱 Atualmente em formação (Segurança cibernética do Google)
 - 🛡️ Análise de Ameaças
 - 🚨 Resposta a Incidentes
 - 🧠 Segurança da Informação (CIA)
